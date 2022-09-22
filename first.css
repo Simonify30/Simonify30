@@ -133,8 +133,7 @@ button {
 
 }
 
-button p {
-    height: 100%;
+button {
     font-size: 1.1em;
     color: hsl(0, 0%, 100%);
     font-weight: bold;
